@@ -1,0 +1,5 @@
+days,minimum,maximum,mean,median,10th percentile,90th percentile
+impedance,0.0,0.0,0.0,0.0,0.0,0.0
+reoccupancy,68.0,520.0,256.0,251.0,167.0,356.0
+functionality,68.0,520.0,257.0,252.0,168.0,357.0
+repair completion,68.0,520.0,258.0,253.0,169.0,357.0
